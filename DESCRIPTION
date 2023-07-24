@@ -20,5 +20,5 @@ GithubUsername: ayusetianingsih
 GithubRef: HEAD
 GithubSHA1: 416bf210059c5c040b695d913aeab4478edbbf4b
 NeedsCompilation: no
-Packaged: 2023-07-24 08:39:14 UTC; hp
+Packaged: 2023-07-24 07:16:46 UTC; hp
 Built: R 4.3.0; ; 2023-07-24 07:16:46 UTC; windows
